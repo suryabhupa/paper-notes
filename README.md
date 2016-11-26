@@ -1,4 +1,4 @@
-# deeplearning-notes
+# paper-notes
 Personal notes of deep learning and AI papers.
 
 ### By Date
