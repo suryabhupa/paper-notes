@@ -1,6 +1,6 @@
 ## By Topic
 
-* [Neural Machine Translation](#neural-machine-translation]
+* [Neural Machine Translation](#neural-machine-translation)
 * [Program Induction](#program-induction)
 
 ---
