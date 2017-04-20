@@ -8,6 +8,7 @@
 
 #### Program Induction
 * [DeepCoder: Learning to Write Programs.](https://github.com/suryabhupa/deeplearning-notes/blob/master/notes/DeepCoder.md) Matej Balog, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, Daniel Tarlow (2016) [[pdf]](https://arxiv.org/pdf/1611.01989v1.pdf)
+* [Lie-Access Neural Turing Machines](https://github.com/suryabhupa/paper-notes/blob/master/notes/Lie%20Access%20Neural%20Turing%20Machines.md) Greg Yang, Alexander M. Rush (2017) [[pdf]](https://arxiv.org/pdf/1611.02854.pdf)
 
 #### Neural Machine Translation
 
