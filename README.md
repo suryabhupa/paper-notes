@@ -14,3 +14,8 @@ Personal notes of deep learning and AI papers. See [papers by topic](https://git
 **03/2015**
 
 * [On Using Very Large Target Vocabulary for Neural Machine Translation](https://github.com/suryabhupa/paper-notes/blob/master/notes/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md) Sebastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio (2015) [[pdf]](https://arxiv.org/pdf/1412.2007v2.pdf)
+
+**04/2014**
+
+* [A Light Discussion and Derivation of Entropy]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
+* [Notes on Kullback-Leibler Divergence and Likelihood Theory]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)

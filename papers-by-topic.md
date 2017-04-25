@@ -1,10 +1,16 @@
 ## By Topic
 
+* [Information Theory](#information-theory)
 * [Neural Machine Translation](#neural-machine-translation)
 * [Program Induction](#program-induction)
 * [GANs](#gans)
 
 ---
+
+#### Information Theory
+* [A Light Discussion and Derivation of Entropy]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
+* [Notes on Kullback-Leibler Divergence and Likelihood Theory]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)
+
 
 #### Program Induction
 * [DeepCoder: Learning to Write Programs.](https://github.com/suryabhupa/deeplearning-notes/blob/master/notes/DeepCoder.md) Matej Balog, Alexander L. Gaunt, Marc Brockschmidt, Sebastian Nowozin, Daniel Tarlow (2016) [[pdf]](https://arxiv.org/pdf/1611.01989v1.pdf)
