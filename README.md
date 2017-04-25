@@ -3,7 +3,7 @@ Personal notes of deep learning and AI papers. See [papers by topic](https://git
 
 ### By Date
 **03/2017**
-* [Lie-Access Neural Turing Machines]() Greg Yang, Alexander M. Rush
+* [Lie-Access Neural Turing Machines](https://github.com/suryabhupa/paper-notes/blob/master/notes/Lie%20Access%20Neural%20Turing%20Machines.md) Greg Yang, Alexander M. Rush (2017) [[pdf]](https://arxiv.org/pdf/1611.02854.pdf)
 
 **11/2016**
 
