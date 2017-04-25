@@ -17,5 +17,5 @@ Personal notes of deep learning and AI papers. See [papers by topic](https://git
 
 **04/2014**
 
-* [A Light Discussion and Derivation of Entropy]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
-* [Notes on Kullback-Leibler Divergence and Likelihood Theory]( ) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)
+* [A Light Discussion and Derivation of Entropy](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
+* [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)
