@@ -1,9 +1,13 @@
 # paper-notes
 Personal notes of deep learning and AI papers. See [papers by topic](https://github.com/suryabhupa/paper-notes/blob/master/papers-by-topic.md).
 
+### Contributing
+Please feel free to send pull requests of paper summaries or paper suggestions that you think are good!
+
 ### By Date
 **03/2017**
-* [Lie-Access Neural Turing Machines](https://github.com/suryabhupa/paper-notes/blob/master/notes/Lie%20Access%20Neural%20Turing%20Machines.md) Greg Yang, Alexander M. Rush (2017) [[pdf]](https://arxiv.org/pdf/1611.02854.pdf)
+* [Lie-Access Neural Turing Machines.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Lie%20Access%20Neural%20Turing%20Machines.md) Greg Yang, Alexander M. Rush (2017) [[pdf]](https://arxiv.org/pdf/1611.02854.pdf)
+* Understanding Black-box Predictions via Influence Functions. Pang Wei Koh, Percy Liang (2017) [[pdf]](https://arxiv.org/pdf/1703.04730.pdf)
 
 **11/2016**
 
@@ -13,9 +17,9 @@ Personal notes of deep learning and AI papers. See [papers by topic](https://git
 
 **03/2015**
 
-* [On Using Very Large Target Vocabulary for Neural Machine Translation](https://github.com/suryabhupa/paper-notes/blob/master/notes/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md) Sebastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio (2015) [[pdf]](https://arxiv.org/pdf/1412.2007v2.pdf)
+* [On Using Very Large Target Vocabulary for Neural Machine Translation.](https://github.com/suryabhupa/paper-notes/blob/master/notes/On%20Using%20Very%20Large%20Target%20Vocabulary%20for%20Neural%20Machine%20Translation.md) Sebastien Jean, Kyunghyun Cho, Roland Memisevic, Yoshua Bengio (2015) [[pdf]](https://arxiv.org/pdf/1412.2007v2.pdf)
 
 **04/2014**
 
-* [A Light Discussion and Derivation of Entropy](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
-* [Notes on Kullback-Leibler Divergence and Likelihood Theory](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)
+* [A Light Discussion and Derivation of Entropy.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.1998.pdf)
+* [Notes on Kullback-Leibler Divergence and Likelihood Theory.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Jonathon%20Shlens.md) Jonathon Shlens (2014) [[pdf]](https://arxiv.org/pdf/1404.2000.pdf)
