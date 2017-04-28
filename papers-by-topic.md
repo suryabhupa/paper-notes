@@ -4,6 +4,7 @@
 * [Neural Machine Translation](#neural-machine-translation)
 * [Program Induction](#program-induction)
 * [GANs](#gans)
+* [Theory](#theory)
 
 ---
 
@@ -22,3 +23,7 @@
 
 #### GANs
 * [Image-to-Image Translation with Conditional Adversarial Networks.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Image-to-Image%20Translation%20with%20Conditional%20Adversarial%20Networks.md) Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros (2016) [[pdf]](https://arxiv.org/pdf/1611.07004.pdf)
+
+#### Theory
+* Understanding Black-box Predictions via Influence Functions. Pang Wei Koh, Percy Liang (2017) [[pdf]](https://arxiv.org/pdf/1703.04730.pdf)
+
