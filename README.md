@@ -5,6 +5,10 @@ Personal notes of deep learning and AI papers. See [papers by topic](https://git
 Please feel free to send pull requests of paper summaries or paper suggestions that you think are good!
 
 ### By Date
+
+**06/2017**
+* [Making Humans a Multiplanetary Species](https://github.com/suryabhupa/paper-notes/blob/master/notes/Making%20Humans%20a%20Multiplanetary%20Species.md) Elon Musk (2017) [[pdf]](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
+
 **03/2017**
 * [Lie-Access Neural Turing Machines.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Lie%20Access%20Neural%20Turing%20Machines.md) Greg Yang, Alexander M. Rush (2017) [[pdf]](https://arxiv.org/pdf/1611.02854.pdf)
 * Understanding Black-box Predictions via Influence Functions. Pang Wei Koh, Percy Liang (2017) [[pdf]](https://arxiv.org/pdf/1703.04730.pdf)
