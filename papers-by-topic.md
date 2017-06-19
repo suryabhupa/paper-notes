@@ -5,6 +5,7 @@
 * [Program Induction](#program-induction)
 * [GANs](#gans)
 * [Theory](#theory)
+* [Misc](#misc)
 
 ---
 
@@ -26,4 +27,8 @@
 
 #### Theory
 * Understanding Black-box Predictions via Influence Functions. Pang Wei Koh, Percy Liang (2017) [[pdf]](https://arxiv.org/pdf/1703.04730.pdf)
+
+#### Misc
+* [Making Humans a Multiplanetary Species](https://github.com/suryabhupa/paper-notes/blob/master/notes/Making%20Humans%20a%20Multiplanetary%20Species.md) Elon Musk (2017) [[pdf]](http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu)
+
 
