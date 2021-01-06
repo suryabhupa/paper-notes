@@ -6,6 +6,10 @@ Please feel free to send pull requests of paper summaries or paper suggestions t
 
 ### By Date
 
+**09/2019** 
+* [On Inductive Biases in Deep Reinforcement Learning.](https://github.com/suryabhupa/paper-notes/edit/master/notes/Inductive%20Biases%20in%20Deep%20RL.md) Matteo Hessel, Hado van Hasselt, Joseph Modayil, David Silver (2019)  [[arxiv]](https://arxiv.org/abs/1907.02908)
+
+
 **07/2017**
 * [Proximal Policy Optimization.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Proximal%20Policy%20Optimization.md) John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov (2017) [[pdf]](https://arxiv.org/abs/1707.06347)
 
