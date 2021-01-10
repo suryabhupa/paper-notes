@@ -9,6 +9,9 @@ Please feel free to send pull requests of paper summaries or paper suggestions t
 **09/2019** 
 * [On Inductive Biases in Deep Reinforcement Learning.](https://github.com/suryabhupa/paper-notes/edit/master/notes/Inductive%20Biases%20in%20Deep%20RL.md) Matteo Hessel, Hado van Hasselt, Joseph Modayil, David Silver (2019)  [[arxiv]](https://arxiv.org/abs/1907.02908)
 
+**07/2018**
+* [Learning to Search with MCTSnets.
+](https://github.com/suryabhupa/paper-notes/blob/master/notes/Learning%20to%20Search%20with%20MCTSnets.md) Arthur Guez, Théophane Weber, Ioannis Antonoglou, Karen Simonyan, Oriol Vinyals, Daan Wierstra, Rémi Munos, David Silver (2018) [[arxiv]](https://arxiv.org/abs/1802.04697) 
 
 **07/2017**
 * [Proximal Policy Optimization.](https://github.com/suryabhupa/paper-notes/blob/master/notes/Proximal%20Policy%20Optimization.md) John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov (2017) [[pdf]](https://arxiv.org/abs/1707.06347)
